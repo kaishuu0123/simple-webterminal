@@ -10,6 +10,10 @@ $ bundle install
 $ bundle exec thin start 
 ``
 
+## Screen Shot
+
+![ScreenShot](https://raw.github.com/kaishuu0123/simple-webterminal/master/screenshot/screenshot.png)
+
 ## Contributing
 
 1. Fork it
